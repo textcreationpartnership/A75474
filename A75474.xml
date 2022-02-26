@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the chiefe passages in Ireland, from the 25th of April to this present. As the retaking of the Newry from the rebels, by the Lord Conway, and Munroe the Scotch commander. Likewise the taking of the towne and castle of Carlingford, by a ship that came from Knockfergus, with ten or twelve of the chiefe commanders. Also the taking of Narrow-Water Castle, in which were found the old Countesse of Evagh, daughter of the old arch rebel Hugh, Earle of Tyrone, Sir Edward Trever, Sir Charles Poynes, Captaine Henry Smith, and divers others. With divers other passages of note, which for want of roome we cannot here specifie. By T.A. and P.G.</title>
+            <author>T. A.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75474</idno>
+            <idno type="STC">Wing A35</idno>
+            <idno type="STC">Thomason E147_6</idno>
+            <idno type="STC">ESTC R3182</idno>
+            <idno type="EEBO-CITATION">99872302</idno>
+            <idno type="PROQUEST">99872302</idno>
+            <idno type="VID">156671</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75474)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156671)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E147[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the chiefe passages in Ireland, from the 25th of April to this present. As the retaking of the Newry from the rebels, by the Lord Conway, and Munroe the Scotch commander. Likewise the taking of the towne and castle of Carlingford, by a ship that came from Knockfergus, with ten or twelve of the chiefe commanders. Also the taking of Narrow-Water Castle, in which were found the old Countesse of Evagh, daughter of the old arch rebel Hugh, Earle of Tyrone, Sir Edward Trever, Sir Charles Poynes, Captaine Henry Smith, and divers others. With divers other passages of note, which for want of roome we cannot here specifie. By T.A. and P.G.</title>
+                  <author>T. A.</author>
+                  <author>P. G.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ed. Blackmore, at the Angel in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At head of title: May the 14. 1642.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conway of Conway Castle, Edward Conway, --  Viscount, 1594-1655.</term>
+               <term>Monro, Robert.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156671:1"/>
+            <pb facs="tcp:156671:1" rendition="simple:additions"/>
+            <p>
+               <hi>May the</hi> 14. 1642. A True RELATION OF THE Chiefe Paſſages IN IRELAND, From the 25<hi rend="sup">th</hi> of April to this preſent.</p>
+            <p>As the Retaking of the <hi>Newry</hi> from the Rebels, by the Lord <hi>Conway,</hi> and <hi>Munroe</hi> the Scotch Commander.</p>
+            <p>Likewiſe the taking of the Towne and Caſtle of <hi>Carlingford,</hi> by a Ship that came from <hi>Knockfergus,</hi> with ten or twelve of the chiefe Commanders.</p>
+            <p>Alſo the taking of <hi>Narrow-Water</hi> Caſtle, in which were found the old Counteſſe of <hi>Evagh,</hi> Daughter of the old Arch Rebel <hi>Hugh,</hi> Earle of <hi>Tyrone.</hi> Sir <hi>Edward Trever,</hi> Sir <hi>Charles Poynes,</hi> Cap<g ref="char:EOLhyphen"/>taine <hi>Henry Smith,</hi> and divers others.</p>
+            <p>With divers other paſſages of Note, which for want of roome we cannot here ſpecifie.</p>
+            <p>By <hi>T. A.</hi> and <hi>P. G.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Ed. Blackmore,</hi> at the Angel in <hi>Pauls</hi> Church-yard, 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156671:2"/>
+            <pb n="1" facs="tcp:156671:2"/>
+            <head>A True RELATION OF THE Chiefe Paſsages IN IRELAND, From the 25<hi rend="sup">th</hi> of April, to this preſent.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Thanke you for your intelligence, which to repay, I have ſent you the trueſt, and certain'ſt of ours, for which we have great cauſe to glorifie God. As ſoone as more forces come over, I am againe the third time to march forth with the Army.</p>
+            <p>
+               <pb n="2" facs="tcp:156671:3"/>
+               <label>Aprile the 25.</label>
+THE Lord <hi>More</hi> with one hundred and fifty Troopers, and a hundred Dragooners, went towards the <hi>Nauan,</hi> burnt the Rebels quarters round about it, came within Muſquet ſhot of the Town; took my Lord <hi>Gormaſtownes</hi> beſt horſe, with ſaddle and furniture, and his man as he was ſcouting a<g ref="char:EOLhyphen"/>broad.</p>
+            <p>
+               <label>The 26.</label>
+Captaine <hi>Murrow</hi> in comming from, and retur<g ref="char:EOLhyphen"/>ning unto <hi>Tradarth,</hi> killed forty Rebels.</p>
+            <p>
+               <label>The 27.</label>
+Sir <hi>Henry Titchburn</hi> ſallied out of <hi>Dundalk</hi> with two hundred Muſquettiers, and a hundred horſe, beſides Pikemen, came to a little Wood, called <hi>Babes Wood;</hi> and perceiving ſome Rebels to bee therein, encompaſt it with his horſe and Pikes, and ſent in the Muſquettiers, who killed many of them in the Wood; ſome like Blackbirds got up into trees, were there ſhot and killed, the reſt that fled out were moſt of them killed by the horſe: They killed within and without the Wood above a hundred and fifty.</p>
+            <p>
+               <label>The 28.</label>
+Forty Troopers and threeſcore Dragooners ſal<g ref="char:EOLhyphen"/>lied out of <hi>Tradarth</hi> into the County of <hi>Lowth,</hi> and about a place called <hi>Clonmore,</hi> they killed above for<g ref="char:EOLhyphen"/>ty Rebels. The ſame day they pillaged <hi>Barnwell</hi> of <hi>Rabeſcuts</hi> houſe, whence they brought abundance of good pillage.</p>
+            <p>
+               <pb n="3" facs="tcp:156671:3"/>
+               <label>The 29.</label>
+               <hi>Markham</hi> the Vintner, and <hi>Hill</hi> his Kinſman, and about ten Troopers more, with twenty Carrs went abroad to get pillage hay; and betwixt <hi>Rick<g ref="char:EOLhyphen"/>henhore</hi> and <hi>Kilſouhan,</hi> which is ſome 7 miles hence, were ſuddenly ſet upon by <hi>Dudly Bern,</hi> who had at leaſt threeſcore horſe and a hundred foot; they killed <hi>Markham,</hi> and his man, and Kinſman, and foure or five Troopers, beſides ten or twelve Car<g ref="char:EOLhyphen"/>men.</p>
+            <p>
+               <label>The 30.</label>
+About one a clock in the morning, Lieutenant Colonel <hi>Gibſon</hi> with his Regiment went to <hi>Bullock</hi> and <hi>Bray,</hi> killed ſome, and brought into the City eighteen Rogues, who are committed to Priſon. The ſame day three or foure hundred Rebels came before <hi>Mellifont,</hi> three or foure miles from <hi>Tra<g ref="char:EOLhyphen"/>darth,</hi> where Lord <hi>More</hi> had left on Tueſday be<g ref="char:EOLhyphen"/>fore a Garriſon of foureſcore foot, and about thir<g ref="char:EOLhyphen"/>ty horſe; the Rebels plaid hotly upon them untill the horſe were ready within; but as ſoone as the horſe were in readineſſe, they with the foot ſal<g ref="char:EOLhyphen"/>lied out, and killed about thirty of the Rebels.</p>
+            <p>The ſame day alſo ſix or ſeven of our Souldiers went from their Garriſon of <hi>Dunſohla</hi> Caſtle, about foure miles hence, abroad pillaging; ente<g ref="char:EOLhyphen"/>ring into a protected houſe; the woman of the houſe gave intelligence thereof to ſome Rogues neere hand; who came ſuddenly upon them, killed three, left one for dead, the reſt eſcaped.</p>
+            <p>April the twenty ſeventh, being Wedneſday,
+<pb n="4" facs="tcp:156671:4"/>
+my Lord <hi>Lile,</hi> Lord <hi>Digby,</hi> Lord <hi>Folliot,</hi> Sir <hi>Charles Coot,</hi> Sir <hi>Richard Grinfield,</hi> Sir <hi>George Wentworth,</hi> and other Captaines, went with foure hundred Troopers, and a hundred and twenty Muſquettiers, and foureſcore Dragooners, and thirty Firelocks, on horſeback, under Lieutenant <hi>Coale,</hi> marched forth; and on Friday following releeved Caſtle <hi>Iordan;</hi> on Saturday they burned <hi>Phillipſtowne,</hi> and tooke the Fort, killed ſome, and hanged foure and twenty Rogues.</p>
+            <p>
+               <label>May the firſt.</label>
+The day following being Sunday, they releeved Caſtle <hi>Geſhil</hi> with Victuals and Ammunition: Here they found no reſiſtance, they returned back the ſame day to <hi>Phillipſtowne,</hi> and from thence to Caſtle <hi>Iordan,</hi> where they lay that night.</p>
+            <p>
+               <label>May the ſecond.</label>
+The next day they marched to <hi>Trim,</hi> a towne of great importance, on the River of <hi>Boyne,</hi> which place they ſuddenly ſurpriſed with the loſſe of one Firelocke, and ſome ſix or ſeven common Soul<g ref="char:EOLhyphen"/>diers wounded. Of the Rebels were ſlaine about threeſcore. The Lord <hi>Lile,</hi> Sir <hi>Charles Coot,</hi> and the reſt of the Captaines ſtay ſtill in <hi>Trim,</hi> having yeſternight ſent a Convoy of fifty horſe with Let<g ref="char:EOLhyphen"/>ters to the Lords Juſtices, deſiring ſome forces to be ſent unto them, to leave there in Garriſon.</p>
+            <p>From <hi>Munſter</hi> wee heare that <hi>Rathgogan</hi> Caſtle which hath beene a long while beſieged, is lately relieved by Captaine <hi>William Iephſon,</hi> and Lieve<g ref="char:EOLhyphen"/>tenant <hi>Downing;</hi> at their returne Sir <hi>Edward Fitz-Harris</hi>
+               <pb n="5" facs="tcp:156671:4"/>
+intended to have intercepted them with five hundred of the Lord <hi>Roches</hi> Tatterdemallions, but Captaine <hi>Iephſon</hi> drew them from their ſtrong faſtneſſes into the plain champion, where he killed their Captaine, and two hundred and forty common ſouldiers, and took the Lieve<g ref="char:EOLhyphen"/>tenant and Ancient priſoners.</p>
+            <p>
+               <label>The fifth of May</label>
+Newes came from <hi>Dundalk</hi> to the Lords Juſtices by Captaine <hi>Cadogan</hi> (who came thence through <hi>Maday</hi> with ten Horſe-men only) that the <hi>Newry</hi> was not only retaken by the Lord <hi>Conway,</hi> and <hi>Munroe</hi> the Scots Commander, from the Rebels, but alſo that the Towne and Caſtle of <hi>Carling<g ref="char:EOLhyphen"/>ford</hi> was taken by a Ship that came from <hi>Knock<g ref="char:EOLhyphen"/>fergus,</hi> their pollicy was to put up the Spaniſh co<g ref="char:EOLhyphen"/>lours, which the Rebels diſcerning, ſent a fiſher<g ref="char:EOLhyphen"/>boate with ten or twelve of their Commanders to goe aboard the Ship, ſuppoſing that ſome Ammunition was come unto them; but the Cap<g ref="char:EOLhyphen"/>taine of the Ship inſtead of ſhewing them any ſuch Commodities, clapt them up under decks, and ſo landing his Musketiers, they took the Towne, which they of the Caſtle ſoone percei<g ref="char:EOLhyphen"/>ving, fled away, and left both unto our forces.</p>
+            <p>The Narrow-water Caſtle was likewiſe ſoone after taken, in which they found the old Viſ<g ref="char:EOLhyphen"/>counteſſe of <hi>Evagh,</hi> daughter of the old Arch Rebell <hi>Hugh</hi> Earle of <hi>Tirone,</hi> Sir <hi>Edward Trever,</hi> Sir <hi>Charles Poynes,</hi> Captaine <hi>Henry Smith,</hi> and ſeverall others that were taken priſoners at the
+<pb n="6" facs="tcp:156671:5"/>
+beginning of this inſurrection, and cloſe kept in the Caſtle of the <hi>Newry,</hi> were all relieved, and are now going at their liberty.</p>
+            <p>Victualls grow very ſcarce and exceſſive deare, which hath forced us to ſend the greateſt part of our forces into the Countrey to garriſon, untill we are enabled to march forth; for the enemy is yet very ſtrong, eſpecially towards <hi>Wexford, Waterford,</hi> and <hi>Kilkenny,</hi> which Townes he forti<g ref="char:EOLhyphen"/>fieth, and meanes to defend to the utmoſt of his power.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
